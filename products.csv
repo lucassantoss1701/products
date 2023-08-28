@@ -1,0 +1,1001 @@
+Produto,Preço,Descrição,ID,Categoria
+Produto 1,254.32,Descrição do produto de exemplo.,YR76K,Calçados
+Produto 2,362.64,Descrição do produto de exemplo.,4GZ0P,Vestuário
+Produto 3,463.85,Descrição do produto de exemplo.,X9JEX,Acessórios de Áudio
+Produto 4,246.80,Descrição do produto de exemplo.,FVWHX,Acessórios de Áudio
+Produto 5,25.28,Descrição do produto de exemplo.,QRDF6,Calçados
+Produto 6,206.59,Descrição do produto de exemplo.,D05GD,Eletrônicos
+Produto 7,148.29,Descrição do produto de exemplo.,0JDCR,Eletrônicos
+Produto 8,299.39,Descrição do produto de exemplo.,9QIW1,Eletrônicos
+Produto 9,263.61,Descrição do produto de exemplo.,QFDVF,Vestuário
+Produto 10,347.06,Descrição do produto de exemplo.,L4QNP,Calçados
+Produto 11,400.27,Descrição do produto de exemplo.,6E4UA,Eletrônicos
+Produto 12,363.00,Descrição do produto de exemplo.,84CPN,Calçados
+Produto 13,349.30,Descrição do produto de exemplo.,KZ0FW,Livros
+Produto 14,330.66,Descrição do produto de exemplo.,HOEMA,Calçados
+Produto 15,329.88,Descrição do produto de exemplo.,O9PWB,Acessórios de Áudio
+Produto 16,143.37,Descrição do produto de exemplo.,PHQAX,Eletrônicos
+Produto 17,477.82,Descrição do produto de exemplo.,T3CYF,Vestuário
+Produto 18,368.97,Descrição do produto de exemplo.,5NGM6,Eletrônicos
+Produto 19,128.26,Descrição do produto de exemplo.,UTCFK,Acessórios de Áudio
+Produto 20,160.75,Descrição do produto de exemplo.,OJVY2,Vestuário
+Produto 21,182.76,Descrição do produto de exemplo.,ELU92,Calçados
+Produto 22,274.45,Descrição do produto de exemplo.,244DX,Vestuário
+Produto 23,182.34,Descrição do produto de exemplo.,7ORPN,Acessórios de Áudio
+Produto 24,247.85,Descrição do produto de exemplo.,45G2J,Livros
+Produto 25,234.60,Descrição do produto de exemplo.,8HTW1,Vestuário
+Produto 26,265.93,Descrição do produto de exemplo.,5DHWH,Livros
+Produto 27,172.25,Descrição do produto de exemplo.,F1D7C,Livros
+Produto 28,181.84,Descrição do produto de exemplo.,FBPV4,Eletrônicos
+Produto 29,224.80,Descrição do produto de exemplo.,COJ9P,Livros
+Produto 30,192.79,Descrição do produto de exemplo.,BU2JF,Eletrônicos
+Produto 31,166.98,Descrição do produto de exemplo.,R99P3,Eletrônicos
+Produto 32,129.35,Descrição do produto de exemplo.,MA17N,Acessórios de Áudio
+Produto 33,34.36,Descrição do produto de exemplo.,82338,Livros
+Produto 34,61.36,Descrição do produto de exemplo.,Y133N,Eletrônicos
+Produto 35,333.91,Descrição do produto de exemplo.,YG852,Calçados
+Produto 36,276.19,Descrição do produto de exemplo.,P61JH,Vestuário
+Produto 37,167.52,Descrição do produto de exemplo.,P7J1T,Livros
+Produto 38,267.11,Descrição do produto de exemplo.,U63SM,Vestuário
+Produto 39,236.03,Descrição do produto de exemplo.,7E2TC,Calçados
+Produto 40,69.36,Descrição do produto de exemplo.,IDYMN,Eletrônicos
+Produto 41,187.01,Descrição do produto de exemplo.,PIBJO,Livros
+Produto 42,84.39,Descrição do produto de exemplo.,LU47M,Livros
+Produto 43,449.08,Descrição do produto de exemplo.,LD63P,Acessórios de Áudio
+Produto 44,352.92,Descrição do produto de exemplo.,CZH8Y,Livros
+Produto 45,412.81,Descrição do produto de exemplo.,B8CAO,Acessórios de Áudio
+Produto 46,357.73,Descrição do produto de exemplo.,6KOA9,Eletrônicos
+Produto 47,262.76,Descrição do produto de exemplo.,RYK65,Vestuário
+Produto 48,315.43,Descrição do produto de exemplo.,2FUX9,Calçados
+Produto 49,28.84,Descrição do produto de exemplo.,UJOSU,Calçados
+Produto 50,92.53,Descrição do produto de exemplo.,1KMM3,Vestuário
+Produto 51,262.57,Descrição do produto de exemplo.,WG6S8,Eletrônicos
+Produto 52,201.95,Descrição do produto de exemplo.,M120I,Calçados
+Produto 53,87.12,Descrição do produto de exemplo.,VA0BP,Eletrônicos
+Produto 54,188.67,Descrição do produto de exemplo.,D42M2,Livros
+Produto 55,270.57,Descrição do produto de exemplo.,ZNR75,Eletrônicos
+Produto 56,378.89,Descrição do produto de exemplo.,11Z9Q,Livros
+Produto 57,423.73,Descrição do produto de exemplo.,5CFNB,Acessórios de Áudio
+Produto 58,235.89,Descrição do produto de exemplo.,6UNUW,Calçados
+Produto 59,229.42,Descrição do produto de exemplo.,7LEYO,Vestuário
+Produto 60,213.98,Descrição do produto de exemplo.,URQ4Q,Acessórios de Áudio
+Produto 61,495.17,Descrição do produto de exemplo.,JR6KD,Vestuário
+Produto 62,299.61,Descrição do produto de exemplo.,NELTB,Acessórios de Áudio
+Produto 63,287.78,Descrição do produto de exemplo.,87TON,Calçados
+Produto 64,175.20,Descrição do produto de exemplo.,TFMAO,Eletrônicos
+Produto 65,228.57,Descrição do produto de exemplo.,LCC0S,Livros
+Produto 66,475.03,Descrição do produto de exemplo.,95E1Y,Calçados
+Produto 67,407.09,Descrição do produto de exemplo.,V2F1V,Eletrônicos
+Produto 68,478.70,Descrição do produto de exemplo.,CP2YB,Calçados
+Produto 69,26.26,Descrição do produto de exemplo.,RD0B8,Acessórios de Áudio
+Produto 70,498.90,Descrição do produto de exemplo.,34LCJ,Acessórios de Áudio
+Produto 71,277.90,Descrição do produto de exemplo.,4BWM0,Acessórios de Áudio
+Produto 72,332.43,Descrição do produto de exemplo.,NOTU3,Calçados
+Produto 73,114.68,Descrição do produto de exemplo.,5SFA5,Calçados
+Produto 74,403.89,Descrição do produto de exemplo.,MBZ9D,Livros
+Produto 75,35.84,Descrição do produto de exemplo.,BQW49,Livros
+Produto 76,306.40,Descrição do produto de exemplo.,FXVFQ,Acessórios de Áudio
+Produto 77,125.15,Descrição do produto de exemplo.,350T2,Acessórios de Áudio
+Produto 78,293.55,Descrição do produto de exemplo.,SARJD,Calçados
+Produto 79,146.97,Descrição do produto de exemplo.,BGZY2,Calçados
+Produto 80,440.14,Descrição do produto de exemplo.,5HK4U,Vestuário
+Produto 81,454.21,Descrição do produto de exemplo.,B88NS,Livros
+Produto 82,331.20,Descrição do produto de exemplo.,0U4K8,Calçados
+Produto 83,481.33,Descrição do produto de exemplo.,TJBRM,Vestuário
+Produto 84,353.40,Descrição do produto de exemplo.,06POL,Livros
+Produto 85,359.20,Descrição do produto de exemplo.,GG8BJ,Eletrônicos
+Produto 86,293.17,Descrição do produto de exemplo.,WMKME,Livros
+Produto 87,250.89,Descrição do produto de exemplo.,NWT6J,Calçados
+Produto 88,373.85,Descrição do produto de exemplo.,H4YXH,Livros
+Produto 89,256.28,Descrição do produto de exemplo.,AGLA7,Livros
+Produto 90,457.52,Descrição do produto de exemplo.,ROZB8,Calçados
+Produto 91,348.25,Descrição do produto de exemplo.,ZM6YY,Eletrônicos
+Produto 92,211.51,Descrição do produto de exemplo.,BR3BO,Eletrônicos
+Produto 93,83.18,Descrição do produto de exemplo.,Y0DOM,Calçados
+Produto 94,377.54,Descrição do produto de exemplo.,YBK5Y,Eletrônicos
+Produto 95,264.46,Descrição do produto de exemplo.,HG9UR,Livros
+Produto 96,256.24,Descrição do produto de exemplo.,F212A,Calçados
+Produto 97,180.07,Descrição do produto de exemplo.,U9WHO,Vestuário
+Produto 98,302.50,Descrição do produto de exemplo.,8IDM9,Acessórios de Áudio
+Produto 99,115.53,Descrição do produto de exemplo.,2I6FD,Eletrônicos
+Produto 100,158.11,Descrição do produto de exemplo.,9PMVH,Acessórios de Áudio
+Produto 101,332.16,Descrição do produto de exemplo.,NHY2K,Eletrônicos
+Produto 102,244.03,Descrição do produto de exemplo.,5EHHB,Eletrônicos
+Produto 103,365.77,Descrição do produto de exemplo.,Y6LDF,Livros
+Produto 104,289.97,Descrição do produto de exemplo.,TCGLH,Acessórios de Áudio
+Produto 105,59.78,Descrição do produto de exemplo.,N6DK6,Eletrônicos
+Produto 106,391.81,Descrição do produto de exemplo.,JD44Y,Acessórios de Áudio
+Produto 107,367.91,Descrição do produto de exemplo.,YNLJI,Acessórios de Áudio
+Produto 108,11.43,Descrição do produto de exemplo.,WQ6BW,Calçados
+Produto 109,499.48,Descrição do produto de exemplo.,6ZGNZ,Livros
+Produto 110,329.56,Descrição do produto de exemplo.,VKO7E,Livros
+Produto 111,258.25,Descrição do produto de exemplo.,K6I28,Calçados
+Produto 112,319.27,Descrição do produto de exemplo.,ZR98O,Vestuário
+Produto 113,19.99,Descrição do produto de exemplo.,GCF3P,Vestuário
+Produto 114,376.50,Descrição do produto de exemplo.,D5BY5,Vestuário
+Produto 115,312.44,Descrição do produto de exemplo.,9WNOZ,Livros
+Produto 116,77.26,Descrição do produto de exemplo.,GGAJU,Calçados
+Produto 117,181.20,Descrição do produto de exemplo.,NFOKB,Acessórios de Áudio
+Produto 118,302.92,Descrição do produto de exemplo.,7EZ5E,Eletrônicos
+Produto 119,201.45,Descrição do produto de exemplo.,9VMG3,Acessórios de Áudio
+Produto 120,382.81,Descrição do produto de exemplo.,S0FV6,Livros
+Produto 121,41.95,Descrição do produto de exemplo.,W3BSJ,Calçados
+Produto 122,468.01,Descrição do produto de exemplo.,S5NI0,Calçados
+Produto 123,254.55,Descrição do produto de exemplo.,OW217,Acessórios de Áudio
+Produto 124,366.50,Descrição do produto de exemplo.,S5GDY,Eletrônicos
+Produto 125,241.57,Descrição do produto de exemplo.,PJDFQ,Livros
+Produto 126,370.10,Descrição do produto de exemplo.,VZI94,Acessórios de Áudio
+Produto 127,354.38,Descrição do produto de exemplo.,IJ6HJ,Eletrônicos
+Produto 128,376.11,Descrição do produto de exemplo.,4DY7O,Vestuário
+Produto 129,413.39,Descrição do produto de exemplo.,7UCGV,Calçados
+Produto 130,63.29,Descrição do produto de exemplo.,EBIKM,Vestuário
+Produto 131,351.65,Descrição do produto de exemplo.,307XU,Acessórios de Áudio
+Produto 132,306.13,Descrição do produto de exemplo.,JQ44J,Calçados
+Produto 133,366.27,Descrição do produto de exemplo.,MWIW5,Acessórios de Áudio
+Produto 134,437.60,Descrição do produto de exemplo.,90YH8,Livros
+Produto 135,240.63,Descrição do produto de exemplo.,GSNYV,Vestuário
+Produto 136,379.37,Descrição do produto de exemplo.,CLLEQ,Calçados
+Produto 137,202.63,Descrição do produto de exemplo.,9STBO,Eletrônicos
+Produto 138,382.40,Descrição do produto de exemplo.,3DVKY,Vestuário
+Produto 139,191.38,Descrição do produto de exemplo.,JJW7I,Vestuário
+Produto 140,59.69,Descrição do produto de exemplo.,WPOAQ,Livros
+Produto 141,196.88,Descrição do produto de exemplo.,ARDYX,Vestuário
+Produto 142,12.48,Descrição do produto de exemplo.,AMG7Q,Livros
+Produto 143,53.43,Descrição do produto de exemplo.,A8CG5,Livros
+Produto 144,364.03,Descrição do produto de exemplo.,M7VTK,Calçados
+Produto 145,157.73,Descrição do produto de exemplo.,628EI,Vestuário
+Produto 146,59.68,Descrição do produto de exemplo.,BRQAQ,Acessórios de Áudio
+Produto 147,17.08,Descrição do produto de exemplo.,GBFBN,Eletrônicos
+Produto 148,186.37,Descrição do produto de exemplo.,1M97K,Livros
+Produto 149,37.20,Descrição do produto de exemplo.,JSLV0,Vestuário
+Produto 150,83.19,Descrição do produto de exemplo.,5K0SG,Vestuário
+Produto 151,130.72,Descrição do produto de exemplo.,30HQB,Eletrônicos
+Produto 152,488.72,Descrição do produto de exemplo.,R2NZ8,Vestuário
+Produto 153,391.59,Descrição do produto de exemplo.,4ACL6,Calçados
+Produto 154,324.64,Descrição do produto de exemplo.,6Y54A,Eletrônicos
+Produto 155,436.20,Descrição do produto de exemplo.,O0Z2F,Acessórios de Áudio
+Produto 156,281.33,Descrição do produto de exemplo.,5Z66F,Calçados
+Produto 157,461.74,Descrição do produto de exemplo.,5VBZG,Calçados
+Produto 158,179.95,Descrição do produto de exemplo.,WZ5FJ,Livros
+Produto 159,305.74,Descrição do produto de exemplo.,78QCO,Acessórios de Áudio
+Produto 160,60.10,Descrição do produto de exemplo.,BETC1,Calçados
+Produto 161,464.47,Descrição do produto de exemplo.,PZ8MU,Acessórios de Áudio
+Produto 162,222.54,Descrição do produto de exemplo.,6X1CM,Livros
+Produto 163,171.39,Descrição do produto de exemplo.,BTL02,Livros
+Produto 164,389.66,Descrição do produto de exemplo.,VM29V,Calçados
+Produto 165,229.41,Descrição do produto de exemplo.,6PLOG,Vestuário
+Produto 166,407.04,Descrição do produto de exemplo.,T2CWL,Calçados
+Produto 167,445.70,Descrição do produto de exemplo.,23R25,Acessórios de Áudio
+Produto 168,354.47,Descrição do produto de exemplo.,72YJO,Vestuário
+Produto 169,349.61,Descrição do produto de exemplo.,0BE59,Vestuário
+Produto 170,223.34,Descrição do produto de exemplo.,AUC17,Eletrônicos
+Produto 171,354.94,Descrição do produto de exemplo.,WWOHP,Calçados
+Produto 172,438.25,Descrição do produto de exemplo.,7S73C,Vestuário
+Produto 173,143.53,Descrição do produto de exemplo.,8Y5RA,Vestuário
+Produto 174,427.02,Descrição do produto de exemplo.,2VNG6,Eletrônicos
+Produto 175,388.33,Descrição do produto de exemplo.,A86YF,Vestuário
+Produto 176,214.57,Descrição do produto de exemplo.,DCC38,Livros
+Produto 177,225.98,Descrição do produto de exemplo.,U4LSM,Vestuário
+Produto 178,267.71,Descrição do produto de exemplo.,JVG6R,Vestuário
+Produto 179,35.00,Descrição do produto de exemplo.,2UKBY,Acessórios de Áudio
+Produto 180,486.63,Descrição do produto de exemplo.,8RIRD,Vestuário
+Produto 181,271.61,Descrição do produto de exemplo.,11VXO,Eletrônicos
+Produto 182,472.96,Descrição do produto de exemplo.,0A3MH,Calçados
+Produto 183,343.59,Descrição do produto de exemplo.,QNP8L,Acessórios de Áudio
+Produto 184,415.40,Descrição do produto de exemplo.,XMT9M,Livros
+Produto 185,204.28,Descrição do produto de exemplo.,9OU4I,Eletrônicos
+Produto 186,300.20,Descrição do produto de exemplo.,R2ZMM,Calçados
+Produto 187,447.67,Descrição do produto de exemplo.,90EVO,Vestuário
+Produto 188,494.20,Descrição do produto de exemplo.,C35JL,Eletrônicos
+Produto 189,306.12,Descrição do produto de exemplo.,EKHN5,Eletrônicos
+Produto 190,424.12,Descrição do produto de exemplo.,EHDXD,Livros
+Produto 191,170.02,Descrição do produto de exemplo.,NNBMA,Vestuário
+Produto 192,312.96,Descrição do produto de exemplo.,0AL6L,Livros
+Produto 193,223.85,Descrição do produto de exemplo.,43Z4G,Livros
+Produto 194,271.76,Descrição do produto de exemplo.,ZN6GL,Eletrônicos
+Produto 195,193.87,Descrição do produto de exemplo.,GNV8G,Vestuário
+Produto 196,67.45,Descrição do produto de exemplo.,MF94Z,Vestuário
+Produto 197,310.42,Descrição do produto de exemplo.,YXAXC,Eletrônicos
+Produto 198,114.61,Descrição do produto de exemplo.,FV1ZK,Eletrônicos
+Produto 199,74.60,Descrição do produto de exemplo.,D5YA7,Acessórios de Áudio
+Produto 200,240.10,Descrição do produto de exemplo.,SDZLQ,Eletrônicos
+Produto 201,126.56,Descrição do produto de exemplo.,3MZBU,Eletrônicos
+Produto 202,175.01,Descrição do produto de exemplo.,MJOII,Calçados
+Produto 203,365.91,Descrição do produto de exemplo.,1BLFK,Livros
+Produto 204,471.83,Descrição do produto de exemplo.,QMJEO,Vestuário
+Produto 205,389.73,Descrição do produto de exemplo.,YGJNY,Livros
+Produto 206,105.73,Descrição do produto de exemplo.,IOQ8A,Livros
+Produto 207,478.27,Descrição do produto de exemplo.,JB4AL,Livros
+Produto 208,479.61,Descrição do produto de exemplo.,HHZM0,Livros
+Produto 209,198.92,Descrição do produto de exemplo.,C0EXX,Calçados
+Produto 210,94.87,Descrição do produto de exemplo.,KR15G,Calçados
+Produto 211,277.64,Descrição do produto de exemplo.,K0SL6,Calçados
+Produto 212,403.06,Descrição do produto de exemplo.,KQCM4,Calçados
+Produto 213,88.50,Descrição do produto de exemplo.,NVZMW,Vestuário
+Produto 214,139.38,Descrição do produto de exemplo.,1X4XN,Vestuário
+Produto 215,271.10,Descrição do produto de exemplo.,9L0KC,Vestuário
+Produto 216,147.57,Descrição do produto de exemplo.,SAX8T,Acessórios de Áudio
+Produto 217,23.85,Descrição do produto de exemplo.,ELE4F,Vestuário
+Produto 218,241.67,Descrição do produto de exemplo.,3X00M,Eletrônicos
+Produto 219,84.09,Descrição do produto de exemplo.,QXIMR,Livros
+Produto 220,141.97,Descrição do produto de exemplo.,DINAU,Calçados
+Produto 221,268.31,Descrição do produto de exemplo.,KWH71,Livros
+Produto 222,85.10,Descrição do produto de exemplo.,DQ0AC,Calçados
+Produto 223,313.26,Descrição do produto de exemplo.,9X4FM,Livros
+Produto 224,334.64,Descrição do produto de exemplo.,A4GO7,Livros
+Produto 225,17.33,Descrição do produto de exemplo.,LR7NV,Calçados
+Produto 226,195.13,Descrição do produto de exemplo.,6QI7V,Acessórios de Áudio
+Produto 227,71.89,Descrição do produto de exemplo.,JUNWI,Vestuário
+Produto 228,381.29,Descrição do produto de exemplo.,5HQVB,Vestuário
+Produto 229,118.30,Descrição do produto de exemplo.,SPQUH,Acessórios de Áudio
+Produto 230,153.24,Descrição do produto de exemplo.,U9P3C,Calçados
+Produto 231,104.30,Descrição do produto de exemplo.,XZWH8,Eletrônicos
+Produto 232,224.75,Descrição do produto de exemplo.,6P69G,Vestuário
+Produto 233,188.12,Descrição do produto de exemplo.,E0O7Q,Eletrônicos
+Produto 234,73.57,Descrição do produto de exemplo.,3DYUU,Eletrônicos
+Produto 235,346.16,Descrição do produto de exemplo.,T00NR,Calçados
+Produto 236,465.28,Descrição do produto de exemplo.,PBAY0,Acessórios de Áudio
+Produto 237,10.08,Descrição do produto de exemplo.,DTFRW,Eletrônicos
+Produto 238,236.75,Descrição do produto de exemplo.,016MC,Calçados
+Produto 239,145.10,Descrição do produto de exemplo.,RPH9I,Eletrônicos
+Produto 240,44.16,Descrição do produto de exemplo.,9OLBN,Calçados
+Produto 241,203.71,Descrição do produto de exemplo.,KA36D,Livros
+Produto 242,36.58,Descrição do produto de exemplo.,ARPR7,Acessórios de Áudio
+Produto 243,242.05,Descrição do produto de exemplo.,3QB8Y,Calçados
+Produto 244,165.31,Descrição do produto de exemplo.,LR2JK,Eletrônicos
+Produto 245,228.21,Descrição do produto de exemplo.,TMU1N,Eletrônicos
+Produto 246,397.57,Descrição do produto de exemplo.,QNP31,Acessórios de Áudio
+Produto 247,375.06,Descrição do produto de exemplo.,9E2ZG,Eletrônicos
+Produto 248,23.31,Descrição do produto de exemplo.,MN89L,Acessórios de Áudio
+Produto 249,299.04,Descrição do produto de exemplo.,NVD2F,Acessórios de Áudio
+Produto 250,195.63,Descrição do produto de exemplo.,6YZIE,Eletrônicos
+Produto 251,361.18,Descrição do produto de exemplo.,UL5US,Vestuário
+Produto 252,487.41,Descrição do produto de exemplo.,RJ8PT,Calçados
+Produto 253,411.76,Descrição do produto de exemplo.,R7W0J,Acessórios de Áudio
+Produto 254,301.12,Descrição do produto de exemplo.,DMMT3,Eletrônicos
+Produto 255,197.36,Descrição do produto de exemplo.,7DJ5J,Eletrônicos
+Produto 256,27.16,Descrição do produto de exemplo.,W31QP,Livros
+Produto 257,388.72,Descrição do produto de exemplo.,CLFQU,Eletrônicos
+Produto 258,187.81,Descrição do produto de exemplo.,VCRYB,Calçados
+Produto 259,74.73,Descrição do produto de exemplo.,VX1HH,Eletrônicos
+Produto 260,145.12,Descrição do produto de exemplo.,YY5WE,Livros
+Produto 261,393.07,Descrição do produto de exemplo.,26VIJ,Calçados
+Produto 262,154.40,Descrição do produto de exemplo.,5WCU5,Eletrônicos
+Produto 263,445.67,Descrição do produto de exemplo.,I55LW,Calçados
+Produto 264,310.48,Descrição do produto de exemplo.,KK83S,Vestuário
+Produto 265,130.52,Descrição do produto de exemplo.,IKTIC,Calçados
+Produto 266,184.49,Descrição do produto de exemplo.,PWK0W,Eletrônicos
+Produto 267,273.79,Descrição do produto de exemplo.,MRFZW,Calçados
+Produto 268,416.84,Descrição do produto de exemplo.,4J7DJ,Acessórios de Áudio
+Produto 269,473.64,Descrição do produto de exemplo.,5SIXZ,Acessórios de Áudio
+Produto 270,141.26,Descrição do produto de exemplo.,VLOT5,Livros
+Produto 271,359.10,Descrição do produto de exemplo.,SQHLO,Livros
+Produto 272,294.42,Descrição do produto de exemplo.,7PRD8,Vestuário
+Produto 273,210.54,Descrição do produto de exemplo.,5GQF4,Livros
+Produto 274,320.53,Descrição do produto de exemplo.,NES2H,Calçados
+Produto 275,303.83,Descrição do produto de exemplo.,NU6NB,Eletrônicos
+Produto 276,496.19,Descrição do produto de exemplo.,5GU4F,Vestuário
+Produto 277,13.09,Descrição do produto de exemplo.,U2Q6U,Livros
+Produto 278,433.25,Descrição do produto de exemplo.,Q0MVQ,Acessórios de Áudio
+Produto 279,261.89,Descrição do produto de exemplo.,ARFCD,Eletrônicos
+Produto 280,216.15,Descrição do produto de exemplo.,K6OEI,Eletrônicos
+Produto 281,117.65,Descrição do produto de exemplo.,L0ICM,Eletrônicos
+Produto 282,304.74,Descrição do produto de exemplo.,UMM18,Acessórios de Áudio
+Produto 283,246.89,Descrição do produto de exemplo.,736AY,Livros
+Produto 284,86.23,Descrição do produto de exemplo.,BCD9N,Vestuário
+Produto 285,379.57,Descrição do produto de exemplo.,DA4J4,Acessórios de Áudio
+Produto 286,48.92,Descrição do produto de exemplo.,R176O,Calçados
+Produto 287,112.50,Descrição do produto de exemplo.,QK20A,Acessórios de Áudio
+Produto 288,360.57,Descrição do produto de exemplo.,14XGJ,Livros
+Produto 289,206.67,Descrição do produto de exemplo.,EOOA5,Acessórios de Áudio
+Produto 290,305.48,Descrição do produto de exemplo.,LS58I,Vestuário
+Produto 291,29.69,Descrição do produto de exemplo.,V78UO,Eletrônicos
+Produto 292,51.37,Descrição do produto de exemplo.,JKO4S,Vestuário
+Produto 293,141.51,Descrição do produto de exemplo.,A5NH6,Eletrônicos
+Produto 294,130.81,Descrição do produto de exemplo.,XO9YI,Acessórios de Áudio
+Produto 295,397.68,Descrição do produto de exemplo.,1QIA0,Calçados
+Produto 296,48.57,Descrição do produto de exemplo.,QTXOQ,Acessórios de Áudio
+Produto 297,347.58,Descrição do produto de exemplo.,WXAJ7,Acessórios de Áudio
+Produto 298,176.43,Descrição do produto de exemplo.,Q17ZZ,Vestuário
+Produto 299,329.17,Descrição do produto de exemplo.,G81H7,Vestuário
+Produto 300,137.20,Descrição do produto de exemplo.,TQ74J,Calçados
+Produto 301,324.71,Descrição do produto de exemplo.,4ZQOA,Acessórios de Áudio
+Produto 302,150.56,Descrição do produto de exemplo.,C11LP,Eletrônicos
+Produto 303,486.61,Descrição do produto de exemplo.,QQ9O2,Eletrônicos
+Produto 304,388.45,Descrição do produto de exemplo.,DDNJ0,Calçados
+Produto 305,282.45,Descrição do produto de exemplo.,LXD4R,Livros
+Produto 306,206.43,Descrição do produto de exemplo.,J3C0B,Vestuário
+Produto 307,35.58,Descrição do produto de exemplo.,9LH9E,Vestuário
+Produto 308,139.64,Descrição do produto de exemplo.,26A3Z,Vestuário
+Produto 309,164.52,Descrição do produto de exemplo.,JWCMZ,Livros
+Produto 310,493.93,Descrição do produto de exemplo.,VNMAP,Acessórios de Áudio
+Produto 311,24.14,Descrição do produto de exemplo.,MHDNS,Livros
+Produto 312,22.66,Descrição do produto de exemplo.,3035G,Vestuário
+Produto 313,329.73,Descrição do produto de exemplo.,U55TN,Acessórios de Áudio
+Produto 314,304.39,Descrição do produto de exemplo.,8T6OH,Calçados
+Produto 315,384.79,Descrição do produto de exemplo.,TPK78,Acessórios de Áudio
+Produto 316,125.32,Descrição do produto de exemplo.,4IEWS,Vestuário
+Produto 317,47.27,Descrição do produto de exemplo.,5REFU,Calçados
+Produto 318,121.51,Descrição do produto de exemplo.,A3WS9,Calçados
+Produto 319,24.80,Descrição do produto de exemplo.,GCQ23,Eletrônicos
+Produto 320,436.11,Descrição do produto de exemplo.,G0TFW,Acessórios de Áudio
+Produto 321,383.76,Descrição do produto de exemplo.,RSGN2,Eletrônicos
+Produto 322,405.02,Descrição do produto de exemplo.,QFOGQ,Livros
+Produto 323,322.70,Descrição do produto de exemplo.,RUD35,Eletrônicos
+Produto 324,23.34,Descrição do produto de exemplo.,YGDNN,Calçados
+Produto 325,261.26,Descrição do produto de exemplo.,WI291,Calçados
+Produto 326,157.64,Descrição do produto de exemplo.,NNJQH,Eletrônicos
+Produto 327,387.37,Descrição do produto de exemplo.,LORZV,Vestuário
+Produto 328,313.78,Descrição do produto de exemplo.,K0ZLP,Livros
+Produto 329,405.42,Descrição do produto de exemplo.,IVJWD,Acessórios de Áudio
+Produto 330,22.80,Descrição do produto de exemplo.,X58QQ,Livros
+Produto 331,382.05,Descrição do produto de exemplo.,EJNZQ,Livros
+Produto 332,296.40,Descrição do produto de exemplo.,3KU7I,Acessórios de Áudio
+Produto 333,266.95,Descrição do produto de exemplo.,C7LQG,Eletrônicos
+Produto 334,37.53,Descrição do produto de exemplo.,NY5L7,Vestuário
+Produto 335,220.58,Descrição do produto de exemplo.,N4696,Livros
+Produto 336,119.46,Descrição do produto de exemplo.,VCCHA,Vestuário
+Produto 337,62.92,Descrição do produto de exemplo.,5DOEC,Acessórios de Áudio
+Produto 338,304.26,Descrição do produto de exemplo.,UBF9Z,Livros
+Produto 339,223.87,Descrição do produto de exemplo.,0HTZV,Vestuário
+Produto 340,175.85,Descrição do produto de exemplo.,Y6D3U,Calçados
+Produto 341,190.83,Descrição do produto de exemplo.,BN0GC,Livros
+Produto 342,479.25,Descrição do produto de exemplo.,P39SR,Acessórios de Áudio
+Produto 343,497.20,Descrição do produto de exemplo.,YUTT7,Acessórios de Áudio
+Produto 344,443.99,Descrição do produto de exemplo.,91SL3,Calçados
+Produto 345,151.00,Descrição do produto de exemplo.,ZN2HH,Vestuário
+Produto 346,177.36,Descrição do produto de exemplo.,TZ3B6,Vestuário
+Produto 347,221.32,Descrição do produto de exemplo.,WU969,Livros
+Produto 348,301.94,Descrição do produto de exemplo.,NW4BH,Acessórios de Áudio
+Produto 349,279.26,Descrição do produto de exemplo.,2OCKS,Calçados
+Produto 350,138.84,Descrição do produto de exemplo.,3OW55,Vestuário
+Produto 351,308.49,Descrição do produto de exemplo.,PDN6J,Livros
+Produto 352,198.93,Descrição do produto de exemplo.,WQSV8,Calçados
+Produto 353,147.72,Descrição do produto de exemplo.,9LAYG,Acessórios de Áudio
+Produto 354,303.49,Descrição do produto de exemplo.,7EBHW,Vestuário
+Produto 355,48.40,Descrição do produto de exemplo.,XFXB3,Acessórios de Áudio
+Produto 356,482.63,Descrição do produto de exemplo.,0ZDGZ,Vestuário
+Produto 357,129.84,Descrição do produto de exemplo.,NNNV4,Acessórios de Áudio
+Produto 358,351.97,Descrição do produto de exemplo.,6X7OK,Vestuário
+Produto 359,397.60,Descrição do produto de exemplo.,XJBX8,Livros
+Produto 360,270.35,Descrição do produto de exemplo.,P684Q,Vestuário
+Produto 361,227.02,Descrição do produto de exemplo.,9GXIJ,Eletrônicos
+Produto 362,483.92,Descrição do produto de exemplo.,54GUU,Calçados
+Produto 363,335.52,Descrição do produto de exemplo.,MB8C1,Vestuário
+Produto 364,255.32,Descrição do produto de exemplo.,USQ6M,Vestuário
+Produto 365,71.31,Descrição do produto de exemplo.,O5QVD,Vestuário
+Produto 366,72.34,Descrição do produto de exemplo.,FBZIJ,Livros
+Produto 367,424.96,Descrição do produto de exemplo.,1AVRH,Eletrônicos
+Produto 368,283.39,Descrição do produto de exemplo.,9U6YX,Acessórios de Áudio
+Produto 369,496.91,Descrição do produto de exemplo.,GY21X,Vestuário
+Produto 370,80.94,Descrição do produto de exemplo.,UC7WU,Eletrônicos
+Produto 371,237.00,Descrição do produto de exemplo.,2RZPH,Eletrônicos
+Produto 372,421.49,Descrição do produto de exemplo.,GS291,Eletrônicos
+Produto 373,485.52,Descrição do produto de exemplo.,1SVCS,Calçados
+Produto 374,306.02,Descrição do produto de exemplo.,YD3GD,Calçados
+Produto 375,265.78,Descrição do produto de exemplo.,PMWE5,Livros
+Produto 376,109.32,Descrição do produto de exemplo.,J5MXM,Eletrônicos
+Produto 377,83.20,Descrição do produto de exemplo.,9MEGJ,Eletrônicos
+Produto 378,47.74,Descrição do produto de exemplo.,859TS,Livros
+Produto 379,289.18,Descrição do produto de exemplo.,Q35J5,Livros
+Produto 380,277.89,Descrição do produto de exemplo.,HZ5DL,Acessórios de Áudio
+Produto 381,33.98,Descrição do produto de exemplo.,4S58X,Acessórios de Áudio
+Produto 382,154.45,Descrição do produto de exemplo.,011EC,Acessórios de Áudio
+Produto 383,116.63,Descrição do produto de exemplo.,SGQUJ,Calçados
+Produto 384,310.93,Descrição do produto de exemplo.,IPR7S,Calçados
+Produto 385,227.69,Descrição do produto de exemplo.,L2APC,Calçados
+Produto 386,360.71,Descrição do produto de exemplo.,G990R,Vestuário
+Produto 387,225.35,Descrição do produto de exemplo.,N9MPL,Calçados
+Produto 388,441.44,Descrição do produto de exemplo.,94WFQ,Acessórios de Áudio
+Produto 389,332.85,Descrição do produto de exemplo.,OGM99,Eletrônicos
+Produto 390,150.70,Descrição do produto de exemplo.,ZAD72,Acessórios de Áudio
+Produto 391,484.83,Descrição do produto de exemplo.,FJQ6T,Eletrônicos
+Produto 392,282.13,Descrição do produto de exemplo.,AGOEO,Eletrônicos
+Produto 393,430.19,Descrição do produto de exemplo.,1IKYV,Calçados
+Produto 394,436.64,Descrição do produto de exemplo.,Y2UOZ,Livros
+Produto 395,205.55,Descrição do produto de exemplo.,B3EZ1,Livros
+Produto 396,338.82,Descrição do produto de exemplo.,Y85VB,Acessórios de Áudio
+Produto 397,329.02,Descrição do produto de exemplo.,SY11D,Livros
+Produto 398,132.00,Descrição do produto de exemplo.,AHHPN,Livros
+Produto 399,288.98,Descrição do produto de exemplo.,SWLWX,Vestuário
+Produto 400,297.38,Descrição do produto de exemplo.,NQMYT,Acessórios de Áudio
+Produto 401,416.48,Descrição do produto de exemplo.,Z1FS1,Acessórios de Áudio
+Produto 402,117.68,Descrição do produto de exemplo.,FWD9I,Livros
+Produto 403,299.99,Descrição do produto de exemplo.,67WFW,Calçados
+Produto 404,450.04,Descrição do produto de exemplo.,LLEDJ,Calçados
+Produto 405,160.67,Descrição do produto de exemplo.,H0VML,Acessórios de Áudio
+Produto 406,360.01,Descrição do produto de exemplo.,NIRRX,Eletrônicos
+Produto 407,155.30,Descrição do produto de exemplo.,NPE08,Acessórios de Áudio
+Produto 408,315.25,Descrição do produto de exemplo.,QFMGU,Vestuário
+Produto 409,93.29,Descrição do produto de exemplo.,M26AG,Acessórios de Áudio
+Produto 410,68.95,Descrição do produto de exemplo.,30R73,Eletrônicos
+Produto 411,112.01,Descrição do produto de exemplo.,K9ZBA,Acessórios de Áudio
+Produto 412,395.89,Descrição do produto de exemplo.,9IYN5,Acessórios de Áudio
+Produto 413,283.31,Descrição do produto de exemplo.,LA1DZ,Livros
+Produto 414,419.10,Descrição do produto de exemplo.,1AUW2,Livros
+Produto 415,494.38,Descrição do produto de exemplo.,5S8D2,Acessórios de Áudio
+Produto 416,481.52,Descrição do produto de exemplo.,OPMM2,Calçados
+Produto 417,216.47,Descrição do produto de exemplo.,UEFIC,Calçados
+Produto 418,208.78,Descrição do produto de exemplo.,TVEGN,Vestuário
+Produto 419,112.25,Descrição do produto de exemplo.,A27NZ,Calçados
+Produto 420,96.38,Descrição do produto de exemplo.,2MU9R,Livros
+Produto 421,375.54,Descrição do produto de exemplo.,33EYN,Eletrônicos
+Produto 422,351.89,Descrição do produto de exemplo.,2MGSA,Calçados
+Produto 423,300.88,Descrição do produto de exemplo.,PZJJ7,Calçados
+Produto 424,280.53,Descrição do produto de exemplo.,0WYV5,Acessórios de Áudio
+Produto 425,213.17,Descrição do produto de exemplo.,O6KAE,Livros
+Produto 426,329.41,Descrição do produto de exemplo.,86XVZ,Calçados
+Produto 427,287.57,Descrição do produto de exemplo.,2U27K,Livros
+Produto 428,347.90,Descrição do produto de exemplo.,NG12L,Acessórios de Áudio
+Produto 429,320.53,Descrição do produto de exemplo.,7ZZDE,Vestuário
+Produto 430,221.13,Descrição do produto de exemplo.,0PPMA,Acessórios de Áudio
+Produto 431,474.50,Descrição do produto de exemplo.,HDJXK,Acessórios de Áudio
+Produto 432,82.97,Descrição do produto de exemplo.,7A3FM,Livros
+Produto 433,43.22,Descrição do produto de exemplo.,FO6O6,Eletrônicos
+Produto 434,488.79,Descrição do produto de exemplo.,Y4N22,Vestuário
+Produto 435,110.12,Descrição do produto de exemplo.,3WLSU,Livros
+Produto 436,402.45,Descrição do produto de exemplo.,33F84,Acessórios de Áudio
+Produto 437,300.89,Descrição do produto de exemplo.,JMA3D,Calçados
+Produto 438,119.60,Descrição do produto de exemplo.,HY9CG,Eletrônicos
+Produto 439,156.41,Descrição do produto de exemplo.,19FEY,Livros
+Produto 440,437.78,Descrição do produto de exemplo.,3EJC8,Calçados
+Produto 441,292.98,Descrição do produto de exemplo.,VY25T,Calçados
+Produto 442,57.79,Descrição do produto de exemplo.,PVZCN,Vestuário
+Produto 443,164.08,Descrição do produto de exemplo.,JBOFZ,Acessórios de Áudio
+Produto 444,310.24,Descrição do produto de exemplo.,UN5ST,Acessórios de Áudio
+Produto 445,118.47,Descrição do produto de exemplo.,W435N,Calçados
+Produto 446,214.33,Descrição do produto de exemplo.,VQFXR,Vestuário
+Produto 447,255.51,Descrição do produto de exemplo.,B961K,Acessórios de Áudio
+Produto 448,58.81,Descrição do produto de exemplo.,W59I5,Eletrônicos
+Produto 449,51.39,Descrição do produto de exemplo.,8PX64,Acessórios de Áudio
+Produto 450,57.23,Descrição do produto de exemplo.,0EY6Q,Livros
+Produto 451,112.05,Descrição do produto de exemplo.,MCRH0,Acessórios de Áudio
+Produto 452,401.51,Descrição do produto de exemplo.,1YW0Q,Livros
+Produto 453,439.44,Descrição do produto de exemplo.,8DHUZ,Eletrônicos
+Produto 454,21.40,Descrição do produto de exemplo.,8O3OJ,Calçados
+Produto 455,26.66,Descrição do produto de exemplo.,1TTXD,Eletrônicos
+Produto 456,364.93,Descrição do produto de exemplo.,WHLTE,Calçados
+Produto 457,36.37,Descrição do produto de exemplo.,RNEC6,Calçados
+Produto 458,52.35,Descrição do produto de exemplo.,SG3E2,Eletrônicos
+Produto 459,230.15,Descrição do produto de exemplo.,YXN8Z,Livros
+Produto 460,486.99,Descrição do produto de exemplo.,QBQO3,Vestuário
+Produto 461,125.83,Descrição do produto de exemplo.,ILWN7,Eletrônicos
+Produto 462,421.29,Descrição do produto de exemplo.,5CRO3,Eletrônicos
+Produto 463,449.30,Descrição do produto de exemplo.,XB0O7,Livros
+Produto 464,199.37,Descrição do produto de exemplo.,MIDWR,Calçados
+Produto 465,76.08,Descrição do produto de exemplo.,TA3I5,Calçados
+Produto 466,275.18,Descrição do produto de exemplo.,NQ3F0,Eletrônicos
+Produto 467,298.91,Descrição do produto de exemplo.,VUGGE,Acessórios de Áudio
+Produto 468,54.01,Descrição do produto de exemplo.,RKAN1,Calçados
+Produto 469,122.91,Descrição do produto de exemplo.,PS3AT,Livros
+Produto 470,249.21,Descrição do produto de exemplo.,VL5RP,Livros
+Produto 471,77.85,Descrição do produto de exemplo.,BENEW,Calçados
+Produto 472,57.76,Descrição do produto de exemplo.,IE9K5,Livros
+Produto 473,438.50,Descrição do produto de exemplo.,NVDR7,Acessórios de Áudio
+Produto 474,223.08,Descrição do produto de exemplo.,JYW89,Acessórios de Áudio
+Produto 475,477.02,Descrição do produto de exemplo.,3ZYGZ,Vestuário
+Produto 476,115.51,Descrição do produto de exemplo.,5M33T,Acessórios de Áudio
+Produto 477,434.50,Descrição do produto de exemplo.,BHQ8R,Calçados
+Produto 478,292.40,Descrição do produto de exemplo.,DBPU1,Eletrônicos
+Produto 479,82.99,Descrição do produto de exemplo.,AMJJT,Livros
+Produto 480,88.59,Descrição do produto de exemplo.,8K51B,Vestuário
+Produto 481,19.65,Descrição do produto de exemplo.,KZ54B,Livros
+Produto 482,469.20,Descrição do produto de exemplo.,OKDDP,Eletrônicos
+Produto 483,269.40,Descrição do produto de exemplo.,QNB9J,Vestuário
+Produto 484,464.60,Descrição do produto de exemplo.,6SW6V,Eletrônicos
+Produto 485,232.30,Descrição do produto de exemplo.,W0RRT,Acessórios de Áudio
+Produto 486,453.26,Descrição do produto de exemplo.,S7FZQ,Eletrônicos
+Produto 487,375.60,Descrição do produto de exemplo.,PKYZP,Calçados
+Produto 488,415.10,Descrição do produto de exemplo.,ME8US,Calçados
+Produto 489,360.95,Descrição do produto de exemplo.,RCJ6F,Acessórios de Áudio
+Produto 490,342.97,Descrição do produto de exemplo.,50XGX,Calçados
+Produto 491,365.48,Descrição do produto de exemplo.,MT6MG,Livros
+Produto 492,269.70,Descrição do produto de exemplo.,DI6CE,Livros
+Produto 493,400.63,Descrição do produto de exemplo.,5QXX2,Calçados
+Produto 494,176.51,Descrição do produto de exemplo.,MM7WD,Acessórios de Áudio
+Produto 495,152.46,Descrição do produto de exemplo.,WJQOF,Livros
+Produto 496,207.05,Descrição do produto de exemplo.,3GRZN,Eletrônicos
+Produto 497,17.74,Descrição do produto de exemplo.,6WBM0,Calçados
+Produto 498,216.08,Descrição do produto de exemplo.,5Y5YV,Livros
+Produto 499,336.43,Descrição do produto de exemplo.,R3NYB,Vestuário
+Produto 500,396.26,Descrição do produto de exemplo.,Y4C9B,Eletrônicos
+Produto 501,11.43,Descrição do produto de exemplo.,33KL1,Eletrônicos
+Produto 502,443.89,Descrição do produto de exemplo.,8SSVI,Vestuário
+Produto 503,449.83,Descrição do produto de exemplo.,27IIJ,Eletrônicos
+Produto 504,272.62,Descrição do produto de exemplo.,8BMLS,Vestuário
+Produto 505,456.07,Descrição do produto de exemplo.,WV0LK,Vestuário
+Produto 506,10.33,Descrição do produto de exemplo.,HM6XW,Eletrônicos
+Produto 507,423.29,Descrição do produto de exemplo.,NVHE4,Eletrônicos
+Produto 508,382.45,Descrição do produto de exemplo.,1CP52,Acessórios de Áudio
+Produto 509,167.33,Descrição do produto de exemplo.,GWA0C,Eletrônicos
+Produto 510,187.30,Descrição do produto de exemplo.,GZ6BP,Livros
+Produto 511,28.09,Descrição do produto de exemplo.,2VVQB,Vestuário
+Produto 512,123.62,Descrição do produto de exemplo.,7ASKP,Calçados
+Produto 513,119.99,Descrição do produto de exemplo.,ND7K3,Calçados
+Produto 514,458.87,Descrição do produto de exemplo.,A94QS,Vestuário
+Produto 515,18.24,Descrição do produto de exemplo.,Z5Q5N,Calçados
+Produto 516,296.67,Descrição do produto de exemplo.,83EQV,Acessórios de Áudio
+Produto 517,307.34,Descrição do produto de exemplo.,0XHJL,Calçados
+Produto 518,309.26,Descrição do produto de exemplo.,KP5GR,Calçados
+Produto 519,487.69,Descrição do produto de exemplo.,FI85U,Livros
+Produto 520,151.72,Descrição do produto de exemplo.,QMTAO,Acessórios de Áudio
+Produto 521,155.25,Descrição do produto de exemplo.,TJFZT,Acessórios de Áudio
+Produto 522,330.79,Descrição do produto de exemplo.,OQFD9,Eletrônicos
+Produto 523,201.23,Descrição do produto de exemplo.,S4WIU,Livros
+Produto 524,255.36,Descrição do produto de exemplo.,235AQ,Eletrônicos
+Produto 525,196.42,Descrição do produto de exemplo.,MRE4R,Eletrônicos
+Produto 526,322.62,Descrição do produto de exemplo.,T2B1E,Acessórios de Áudio
+Produto 527,120.39,Descrição do produto de exemplo.,22ZVK,Vestuário
+Produto 528,76.82,Descrição do produto de exemplo.,MJFBG,Acessórios de Áudio
+Produto 529,326.77,Descrição do produto de exemplo.,AKMMG,Eletrônicos
+Produto 530,194.15,Descrição do produto de exemplo.,R543U,Acessórios de Áudio
+Produto 531,364.07,Descrição do produto de exemplo.,K9GSX,Eletrônicos
+Produto 532,221.98,Descrição do produto de exemplo.,HTG5Y,Vestuário
+Produto 533,406.02,Descrição do produto de exemplo.,3MGXY,Livros
+Produto 534,152.73,Descrição do produto de exemplo.,89FFM,Eletrônicos
+Produto 535,492.13,Descrição do produto de exemplo.,Z8IV4,Calçados
+Produto 536,250.44,Descrição do produto de exemplo.,KL2ID,Livros
+Produto 537,109.65,Descrição do produto de exemplo.,935SW,Eletrônicos
+Produto 538,455.04,Descrição do produto de exemplo.,WWI3Q,Calçados
+Produto 539,403.82,Descrição do produto de exemplo.,FABUY,Calçados
+Produto 540,180.48,Descrição do produto de exemplo.,X3DCL,Acessórios de Áudio
+Produto 541,148.49,Descrição do produto de exemplo.,HAK8N,Vestuário
+Produto 542,367.20,Descrição do produto de exemplo.,QCKGP,Livros
+Produto 543,47.93,Descrição do produto de exemplo.,RE3HX,Livros
+Produto 544,421.53,Descrição do produto de exemplo.,9MS1J,Acessórios de Áudio
+Produto 545,327.07,Descrição do produto de exemplo.,U8VFN,Vestuário
+Produto 546,373.32,Descrição do produto de exemplo.,U5BH4,Eletrônicos
+Produto 547,212.76,Descrição do produto de exemplo.,MTM7Y,Livros
+Produto 548,312.90,Descrição do produto de exemplo.,1DN5J,Acessórios de Áudio
+Produto 549,447.68,Descrição do produto de exemplo.,GF7A1,Livros
+Produto 550,111.24,Descrição do produto de exemplo.,TAQPV,Vestuário
+Produto 551,232.22,Descrição do produto de exemplo.,4CSR2,Eletrônicos
+Produto 552,68.16,Descrição do produto de exemplo.,OAEYC,Eletrônicos
+Produto 553,285.57,Descrição do produto de exemplo.,396L5,Calçados
+Produto 554,133.63,Descrição do produto de exemplo.,BOEYA,Livros
+Produto 555,31.25,Descrição do produto de exemplo.,2X8IU,Calçados
+Produto 556,107.24,Descrição do produto de exemplo.,VXOC5,Eletrônicos
+Produto 557,461.15,Descrição do produto de exemplo.,XZKAG,Eletrônicos
+Produto 558,281.20,Descrição do produto de exemplo.,2P651,Calçados
+Produto 559,359.10,Descrição do produto de exemplo.,7MR0Y,Acessórios de Áudio
+Produto 560,65.72,Descrição do produto de exemplo.,ZU499,Calçados
+Produto 561,152.26,Descrição do produto de exemplo.,40AJX,Acessórios de Áudio
+Produto 562,226.54,Descrição do produto de exemplo.,W4S42,Calçados
+Produto 563,268.69,Descrição do produto de exemplo.,Y1Y28,Vestuário
+Produto 564,339.74,Descrição do produto de exemplo.,OOQ0D,Eletrônicos
+Produto 565,71.27,Descrição do produto de exemplo.,D05WN,Calçados
+Produto 566,411.42,Descrição do produto de exemplo.,HOIRM,Vestuário
+Produto 567,433.04,Descrição do produto de exemplo.,KBBF0,Vestuário
+Produto 568,467.10,Descrição do produto de exemplo.,1U89U,Livros
+Produto 569,195.93,Descrição do produto de exemplo.,8VLLU,Livros
+Produto 570,93.85,Descrição do produto de exemplo.,V2PIV,Vestuário
+Produto 571,18.43,Descrição do produto de exemplo.,T9EFQ,Livros
+Produto 572,420.34,Descrição do produto de exemplo.,OMSD2,Acessórios de Áudio
+Produto 573,361.36,Descrição do produto de exemplo.,R1I7S,Livros
+Produto 574,315.36,Descrição do produto de exemplo.,WS2XN,Calçados
+Produto 575,171.48,Descrição do produto de exemplo.,VSXPY,Eletrônicos
+Produto 576,442.52,Descrição do produto de exemplo.,X9U6O,Vestuário
+Produto 577,442.01,Descrição do produto de exemplo.,0KJ8R,Livros
+Produto 578,329.05,Descrição do produto de exemplo.,TQE4Y,Livros
+Produto 579,195.61,Descrição do produto de exemplo.,0MAZF,Calçados
+Produto 580,176.94,Descrição do produto de exemplo.,5IOWC,Acessórios de Áudio
+Produto 581,296.58,Descrição do produto de exemplo.,EORJE,Calçados
+Produto 582,154.42,Descrição do produto de exemplo.,SEKSA,Livros
+Produto 583,41.43,Descrição do produto de exemplo.,5IKRZ,Eletrônicos
+Produto 584,396.25,Descrição do produto de exemplo.,0ELBR,Eletrônicos
+Produto 585,307.44,Descrição do produto de exemplo.,F5VGI,Eletrônicos
+Produto 586,232.99,Descrição do produto de exemplo.,B10EH,Acessórios de Áudio
+Produto 587,87.02,Descrição do produto de exemplo.,4T7KG,Livros
+Produto 588,272.01,Descrição do produto de exemplo.,NTG87,Calçados
+Produto 589,141.66,Descrição do produto de exemplo.,EFU9X,Livros
+Produto 590,452.78,Descrição do produto de exemplo.,HOK3B,Vestuário
+Produto 591,419.74,Descrição do produto de exemplo.,I4BT3,Vestuário
+Produto 592,308.58,Descrição do produto de exemplo.,E02WS,Vestuário
+Produto 593,286.56,Descrição do produto de exemplo.,O7JVD,Livros
+Produto 594,130.27,Descrição do produto de exemplo.,0ZC8I,Acessórios de Áudio
+Produto 595,433.31,Descrição do produto de exemplo.,ODC0X,Calçados
+Produto 596,406.36,Descrição do produto de exemplo.,FK8K3,Eletrônicos
+Produto 597,421.13,Descrição do produto de exemplo.,ZN936,Acessórios de Áudio
+Produto 598,298.71,Descrição do produto de exemplo.,V8YIR,Livros
+Produto 599,68.31,Descrição do produto de exemplo.,FYGTC,Eletrônicos
+Produto 600,146.13,Descrição do produto de exemplo.,LE8YK,Calçados
+Produto 601,201.53,Descrição do produto de exemplo.,RJY9J,Acessórios de Áudio
+Produto 602,302.74,Descrição do produto de exemplo.,FE85W,Acessórios de Áudio
+Produto 603,80.62,Descrição do produto de exemplo.,2H8E4,Livros
+Produto 604,117.24,Descrição do produto de exemplo.,HB2AD,Calçados
+Produto 605,114.42,Descrição do produto de exemplo.,PRPUE,Livros
+Produto 606,27.17,Descrição do produto de exemplo.,L5ARA,Calçados
+Produto 607,443.25,Descrição do produto de exemplo.,AOO0N,Vestuário
+Produto 608,271.20,Descrição do produto de exemplo.,G28XK,Livros
+Produto 609,452.49,Descrição do produto de exemplo.,L6OJX,Vestuário
+Produto 610,213.44,Descrição do produto de exemplo.,EOVGX,Eletrônicos
+Produto 611,183.65,Descrição do produto de exemplo.,RB4HZ,Acessórios de Áudio
+Produto 612,466.05,Descrição do produto de exemplo.,IBNMW,Vestuário
+Produto 613,415.41,Descrição do produto de exemplo.,6ZM3G,Livros
+Produto 614,58.19,Descrição do produto de exemplo.,XXYQL,Livros
+Produto 615,119.51,Descrição do produto de exemplo.,0PVR1,Eletrônicos
+Produto 616,349.26,Descrição do produto de exemplo.,URJAP,Eletrônicos
+Produto 617,71.87,Descrição do produto de exemplo.,LXDZ7,Acessórios de Áudio
+Produto 618,78.49,Descrição do produto de exemplo.,77VRW,Acessórios de Áudio
+Produto 619,326.34,Descrição do produto de exemplo.,P2X3U,Vestuário
+Produto 620,50.61,Descrição do produto de exemplo.,68FZ4,Calçados
+Produto 621,130.40,Descrição do produto de exemplo.,VID1X,Calçados
+Produto 622,141.36,Descrição do produto de exemplo.,NA0DX,Vestuário
+Produto 623,277.86,Descrição do produto de exemplo.,HFTB0,Calçados
+Produto 624,337.88,Descrição do produto de exemplo.,W9SKR,Calçados
+Produto 625,245.87,Descrição do produto de exemplo.,HQEAD,Acessórios de Áudio
+Produto 626,348.78,Descrição do produto de exemplo.,L2T66,Livros
+Produto 627,257.39,Descrição do produto de exemplo.,7C1QG,Calçados
+Produto 628,309.38,Descrição do produto de exemplo.,5F0J4,Acessórios de Áudio
+Produto 629,134.20,Descrição do produto de exemplo.,M5695,Vestuário
+Produto 630,409.07,Descrição do produto de exemplo.,G0T99,Vestuário
+Produto 631,422.03,Descrição do produto de exemplo.,9VP2D,Vestuário
+Produto 632,393.24,Descrição do produto de exemplo.,DIBYU,Acessórios de Áudio
+Produto 633,484.69,Descrição do produto de exemplo.,QIK5O,Livros
+Produto 634,367.04,Descrição do produto de exemplo.,MZVJI,Livros
+Produto 635,206.79,Descrição do produto de exemplo.,C3U5Q,Livros
+Produto 636,393.57,Descrição do produto de exemplo.,5627Z,Vestuário
+Produto 637,314.18,Descrição do produto de exemplo.,BYARH,Vestuário
+Produto 638,352.70,Descrição do produto de exemplo.,E0YCE,Livros
+Produto 639,424.84,Descrição do produto de exemplo.,DAX4E,Calçados
+Produto 640,13.86,Descrição do produto de exemplo.,SRHN0,Vestuário
+Produto 641,44.57,Descrição do produto de exemplo.,PEXX1,Vestuário
+Produto 642,489.63,Descrição do produto de exemplo.,0CISE,Eletrônicos
+Produto 643,361.71,Descrição do produto de exemplo.,AOGVO,Livros
+Produto 644,439.29,Descrição do produto de exemplo.,JON12,Acessórios de Áudio
+Produto 645,255.30,Descrição do produto de exemplo.,9J0FJ,Vestuário
+Produto 646,205.00,Descrição do produto de exemplo.,FPNJU,Acessórios de Áudio
+Produto 647,204.27,Descrição do produto de exemplo.,IN3FL,Eletrônicos
+Produto 648,273.48,Descrição do produto de exemplo.,F68Y2,Vestuário
+Produto 649,243.55,Descrição do produto de exemplo.,8L56C,Calçados
+Produto 650,251.50,Descrição do produto de exemplo.,HN4S7,Eletrônicos
+Produto 651,327.40,Descrição do produto de exemplo.,6PS9Y,Calçados
+Produto 652,136.02,Descrição do produto de exemplo.,8AAB8,Acessórios de Áudio
+Produto 653,373.73,Descrição do produto de exemplo.,EX2EG,Livros
+Produto 654,448.55,Descrição do produto de exemplo.,WCHNI,Acessórios de Áudio
+Produto 655,28.00,Descrição do produto de exemplo.,4FCVK,Vestuário
+Produto 656,300.35,Descrição do produto de exemplo.,M5A7L,Livros
+Produto 657,232.76,Descrição do produto de exemplo.,FJ55U,Eletrônicos
+Produto 658,51.53,Descrição do produto de exemplo.,CYAQD,Calçados
+Produto 659,244.19,Descrição do produto de exemplo.,F0T3K,Calçados
+Produto 660,440.07,Descrição do produto de exemplo.,PB3YS,Acessórios de Áudio
+Produto 661,275.17,Descrição do produto de exemplo.,6C7AN,Livros
+Produto 662,272.08,Descrição do produto de exemplo.,RHUB1,Calçados
+Produto 663,463.89,Descrição do produto de exemplo.,JEKHT,Eletrônicos
+Produto 664,381.78,Descrição do produto de exemplo.,SU4YU,Livros
+Produto 665,161.85,Descrição do produto de exemplo.,C2JY6,Livros
+Produto 666,105.48,Descrição do produto de exemplo.,E7V6S,Vestuário
+Produto 667,37.60,Descrição do produto de exemplo.,C093N,Calçados
+Produto 668,420.17,Descrição do produto de exemplo.,604Y4,Eletrônicos
+Produto 669,30.03,Descrição do produto de exemplo.,IP9AP,Acessórios de Áudio
+Produto 670,466.26,Descrição do produto de exemplo.,2PYBZ,Calçados
+Produto 671,321.38,Descrição do produto de exemplo.,3RE6P,Eletrônicos
+Produto 672,185.93,Descrição do produto de exemplo.,SUTO6,Acessórios de Áudio
+Produto 673,349.99,Descrição do produto de exemplo.,GHFLS,Acessórios de Áudio
+Produto 674,74.92,Descrição do produto de exemplo.,N092V,Vestuário
+Produto 675,208.55,Descrição do produto de exemplo.,TV4LN,Acessórios de Áudio
+Produto 676,337.27,Descrição do produto de exemplo.,XWNS8,Livros
+Produto 677,26.77,Descrição do produto de exemplo.,GLGEN,Acessórios de Áudio
+Produto 678,366.05,Descrição do produto de exemplo.,SQ537,Vestuário
+Produto 679,348.79,Descrição do produto de exemplo.,J035V,Calçados
+Produto 680,56.75,Descrição do produto de exemplo.,C71U1,Vestuário
+Produto 681,499.62,Descrição do produto de exemplo.,MBZWK,Vestuário
+Produto 682,34.20,Descrição do produto de exemplo.,2OK71,Vestuário
+Produto 683,214.15,Descrição do produto de exemplo.,LER3V,Eletrônicos
+Produto 684,266.72,Descrição do produto de exemplo.,2QUMU,Calçados
+Produto 685,125.41,Descrição do produto de exemplo.,UO1N3,Eletrônicos
+Produto 686,321.71,Descrição do produto de exemplo.,GTWL6,Eletrônicos
+Produto 687,272.89,Descrição do produto de exemplo.,8BEA8,Eletrônicos
+Produto 688,154.64,Descrição do produto de exemplo.,Y771E,Acessórios de Áudio
+Produto 689,226.84,Descrição do produto de exemplo.,NDTS5,Calçados
+Produto 690,119.95,Descrição do produto de exemplo.,HXRZL,Vestuário
+Produto 691,430.53,Descrição do produto de exemplo.,GCARF,Vestuário
+Produto 692,278.05,Descrição do produto de exemplo.,2T36P,Calçados
+Produto 693,426.99,Descrição do produto de exemplo.,SEVCI,Vestuário
+Produto 694,434.83,Descrição do produto de exemplo.,UYAGI,Eletrônicos
+Produto 695,126.00,Descrição do produto de exemplo.,BQ4E1,Eletrônicos
+Produto 696,124.98,Descrição do produto de exemplo.,VNXFX,Livros
+Produto 697,385.24,Descrição do produto de exemplo.,0PT4P,Calçados
+Produto 698,184.80,Descrição do produto de exemplo.,73FEZ,Livros
+Produto 699,404.38,Descrição do produto de exemplo.,WYB9J,Calçados
+Produto 700,255.92,Descrição do produto de exemplo.,GA0NO,Livros
+Produto 701,403.65,Descrição do produto de exemplo.,3PZU2,Livros
+Produto 702,352.42,Descrição do produto de exemplo.,VFW3V,Calçados
+Produto 703,55.10,Descrição do produto de exemplo.,0N8C2,Eletrônicos
+Produto 704,202.23,Descrição do produto de exemplo.,DJ3C7,Livros
+Produto 705,210.65,Descrição do produto de exemplo.,B837Z,Livros
+Produto 706,85.99,Descrição do produto de exemplo.,UCN2Y,Livros
+Produto 707,295.69,Descrição do produto de exemplo.,VWH71,Vestuário
+Produto 708,79.45,Descrição do produto de exemplo.,3CMNI,Calçados
+Produto 709,339.84,Descrição do produto de exemplo.,98253,Vestuário
+Produto 710,388.78,Descrição do produto de exemplo.,FDOKQ,Calçados
+Produto 711,473.70,Descrição do produto de exemplo.,OQJX5,Vestuário
+Produto 712,474.57,Descrição do produto de exemplo.,AGT4Y,Livros
+Produto 713,309.76,Descrição do produto de exemplo.,WYU4Q,Eletrônicos
+Produto 714,324.89,Descrição do produto de exemplo.,5ZL0P,Vestuário
+Produto 715,172.13,Descrição do produto de exemplo.,54D1G,Vestuário
+Produto 716,290.19,Descrição do produto de exemplo.,6C1DY,Calçados
+Produto 717,306.09,Descrição do produto de exemplo.,OCZ7C,Livros
+Produto 718,482.74,Descrição do produto de exemplo.,16GOX,Livros
+Produto 719,440.83,Descrição do produto de exemplo.,BN24T,Vestuário
+Produto 720,335.43,Descrição do produto de exemplo.,5RUL2,Vestuário
+Produto 721,395.66,Descrição do produto de exemplo.,JQ0BU,Eletrônicos
+Produto 722,383.11,Descrição do produto de exemplo.,E3LWD,Eletrônicos
+Produto 723,475.11,Descrição do produto de exemplo.,P8HOX,Livros
+Produto 724,108.28,Descrição do produto de exemplo.,ZDYEB,Eletrônicos
+Produto 725,339.76,Descrição do produto de exemplo.,6TZCQ,Eletrônicos
+Produto 726,99.19,Descrição do produto de exemplo.,LB71Y,Acessórios de Áudio
+Produto 727,104.83,Descrição do produto de exemplo.,CPSOH,Acessórios de Áudio
+Produto 728,21.41,Descrição do produto de exemplo.,JTB6L,Eletrônicos
+Produto 729,220.89,Descrição do produto de exemplo.,AHE5G,Vestuário
+Produto 730,376.15,Descrição do produto de exemplo.,27XRC,Acessórios de Áudio
+Produto 731,99.29,Descrição do produto de exemplo.,3J9MW,Acessórios de Áudio
+Produto 732,330.99,Descrição do produto de exemplo.,N6VMS,Livros
+Produto 733,89.73,Descrição do produto de exemplo.,RH0RG,Livros
+Produto 734,466.32,Descrição do produto de exemplo.,V8X87,Livros
+Produto 735,144.27,Descrição do produto de exemplo.,ILR48,Calçados
+Produto 736,417.08,Descrição do produto de exemplo.,KI66N,Livros
+Produto 737,372.49,Descrição do produto de exemplo.,F6C0Y,Eletrônicos
+Produto 738,211.39,Descrição do produto de exemplo.,3Y8G5,Acessórios de Áudio
+Produto 739,139.73,Descrição do produto de exemplo.,2Y9NC,Livros
+Produto 740,476.27,Descrição do produto de exemplo.,538TM,Eletrônicos
+Produto 741,487.64,Descrição do produto de exemplo.,1TOG5,Acessórios de Áudio
+Produto 742,412.31,Descrição do produto de exemplo.,1RUNU,Livros
+Produto 743,33.65,Descrição do produto de exemplo.,9OY1I,Eletrônicos
+Produto 744,73.82,Descrição do produto de exemplo.,G1S12,Acessórios de Áudio
+Produto 745,11.19,Descrição do produto de exemplo.,XQMQV,Acessórios de Áudio
+Produto 746,184.94,Descrição do produto de exemplo.,PE9YT,Eletrônicos
+Produto 747,478.91,Descrição do produto de exemplo.,0JBKJ,Vestuário
+Produto 748,396.57,Descrição do produto de exemplo.,TI2LO,Eletrônicos
+Produto 749,82.68,Descrição do produto de exemplo.,EZV8A,Acessórios de Áudio
+Produto 750,30.20,Descrição do produto de exemplo.,WJV76,Calçados
+Produto 751,396.30,Descrição do produto de exemplo.,ME8OO,Eletrônicos
+Produto 752,227.15,Descrição do produto de exemplo.,KPN6J,Vestuário
+Produto 753,53.74,Descrição do produto de exemplo.,YNPHQ,Livros
+Produto 754,87.22,Descrição do produto de exemplo.,SA9UB,Livros
+Produto 755,400.51,Descrição do produto de exemplo.,EZBG1,Livros
+Produto 756,316.12,Descrição do produto de exemplo.,VBIXU,Eletrônicos
+Produto 757,115.08,Descrição do produto de exemplo.,V8GWV,Eletrônicos
+Produto 758,139.83,Descrição do produto de exemplo.,TH226,Vestuário
+Produto 759,106.99,Descrição do produto de exemplo.,NYQC0,Calçados
+Produto 760,334.60,Descrição do produto de exemplo.,JEXS2,Eletrônicos
+Produto 761,176.57,Descrição do produto de exemplo.,2Y19N,Livros
+Produto 762,115.55,Descrição do produto de exemplo.,M6U3Q,Eletrônicos
+Produto 763,140.42,Descrição do produto de exemplo.,LV5CZ,Calçados
+Produto 764,446.03,Descrição do produto de exemplo.,ZX187,Vestuário
+Produto 765,393.49,Descrição do produto de exemplo.,N8C1R,Livros
+Produto 766,265.01,Descrição do produto de exemplo.,1VPMA,Calçados
+Produto 767,108.50,Descrição do produto de exemplo.,SRBR7,Eletrônicos
+Produto 768,158.98,Descrição do produto de exemplo.,A7XW8,Vestuário
+Produto 769,232.98,Descrição do produto de exemplo.,LRS6L,Acessórios de Áudio
+Produto 770,445.39,Descrição do produto de exemplo.,K2BOX,Acessórios de Áudio
+Produto 771,326.49,Descrição do produto de exemplo.,4XR8K,Calçados
+Produto 772,234.96,Descrição do produto de exemplo.,ZZ69X,Eletrônicos
+Produto 773,461.88,Descrição do produto de exemplo.,XW1VS,Acessórios de Áudio
+Produto 774,384.45,Descrição do produto de exemplo.,ARYVN,Livros
+Produto 775,445.09,Descrição do produto de exemplo.,6OKLQ,Calçados
+Produto 776,366.30,Descrição do produto de exemplo.,E7KN0,Livros
+Produto 777,318.72,Descrição do produto de exemplo.,B3OIK,Calçados
+Produto 778,333.00,Descrição do produto de exemplo.,4YDFV,Livros
+Produto 779,456.55,Descrição do produto de exemplo.,XYX7D,Acessórios de Áudio
+Produto 780,68.06,Descrição do produto de exemplo.,5XBFQ,Acessórios de Áudio
+Produto 781,226.90,Descrição do produto de exemplo.,IOPM5,Vestuário
+Produto 782,27.93,Descrição do produto de exemplo.,9QV4N,Livros
+Produto 783,493.47,Descrição do produto de exemplo.,WQCY5,Eletrônicos
+Produto 784,73.87,Descrição do produto de exemplo.,ST1P5,Calçados
+Produto 785,157.60,Descrição do produto de exemplo.,15BGP,Eletrônicos
+Produto 786,216.09,Descrição do produto de exemplo.,KQ22K,Eletrônicos
+Produto 787,271.92,Descrição do produto de exemplo.,2Z0CN,Acessórios de Áudio
+Produto 788,447.38,Descrição do produto de exemplo.,08LK4,Calçados
+Produto 789,145.92,Descrição do produto de exemplo.,FUROY,Vestuário
+Produto 790,172.36,Descrição do produto de exemplo.,J3BNK,Eletrônicos
+Produto 791,420.92,Descrição do produto de exemplo.,Q0EUF,Acessórios de Áudio
+Produto 792,166.75,Descrição do produto de exemplo.,QQJPJ,Eletrônicos
+Produto 793,60.16,Descrição do produto de exemplo.,4KALN,Acessórios de Áudio
+Produto 794,73.14,Descrição do produto de exemplo.,QENOO,Acessórios de Áudio
+Produto 795,54.89,Descrição do produto de exemplo.,C3AI3,Eletrônicos
+Produto 796,49.21,Descrição do produto de exemplo.,WW7HD,Calçados
+Produto 797,429.72,Descrição do produto de exemplo.,7CZN6,Livros
+Produto 798,466.72,Descrição do produto de exemplo.,KPU9D,Livros
+Produto 799,383.57,Descrição do produto de exemplo.,0HEUD,Vestuário
+Produto 800,392.86,Descrição do produto de exemplo.,ORSZ1,Calçados
+Produto 801,62.48,Descrição do produto de exemplo.,412KJ,Eletrônicos
+Produto 802,103.87,Descrição do produto de exemplo.,G5112,Eletrônicos
+Produto 803,388.36,Descrição do produto de exemplo.,TFS4X,Eletrônicos
+Produto 804,486.38,Descrição do produto de exemplo.,HXCZU,Calçados
+Produto 805,83.12,Descrição do produto de exemplo.,5CS7U,Livros
+Produto 806,444.29,Descrição do produto de exemplo.,A31LP,Acessórios de Áudio
+Produto 807,420.86,Descrição do produto de exemplo.,SDZEP,Calçados
+Produto 808,414.40,Descrição do produto de exemplo.,0SKEC,Vestuário
+Produto 809,40.56,Descrição do produto de exemplo.,IWTAV,Calçados
+Produto 810,395.32,Descrição do produto de exemplo.,DRSJL,Livros
+Produto 811,321.70,Descrição do produto de exemplo.,G1VN3,Acessórios de Áudio
+Produto 812,350.15,Descrição do produto de exemplo.,I0CXT,Acessórios de Áudio
+Produto 813,187.04,Descrição do produto de exemplo.,LDYAB,Calçados
+Produto 814,427.58,Descrição do produto de exemplo.,91SWU,Calçados
+Produto 815,101.74,Descrição do produto de exemplo.,KMDZ4,Eletrônicos
+Produto 816,348.48,Descrição do produto de exemplo.,C749P,Eletrônicos
+Produto 817,480.53,Descrição do produto de exemplo.,5FGXR,Eletrônicos
+Produto 818,354.88,Descrição do produto de exemplo.,YDHSV,Vestuário
+Produto 819,416.61,Descrição do produto de exemplo.,RIWNH,Livros
+Produto 820,364.13,Descrição do produto de exemplo.,9FGFM,Eletrônicos
+Produto 821,304.90,Descrição do produto de exemplo.,S12BS,Vestuário
+Produto 822,444.05,Descrição do produto de exemplo.,QJRHO,Vestuário
+Produto 823,90.35,Descrição do produto de exemplo.,IU1Q5,Calçados
+Produto 824,285.61,Descrição do produto de exemplo.,ONFIZ,Eletrônicos
+Produto 825,391.99,Descrição do produto de exemplo.,VKETE,Calçados
+Produto 826,128.48,Descrição do produto de exemplo.,HSCUH,Livros
+Produto 827,77.92,Descrição do produto de exemplo.,WZ81P,Livros
+Produto 828,338.48,Descrição do produto de exemplo.,832D5,Livros
+Produto 829,110.42,Descrição do produto de exemplo.,CGX2U,Eletrônicos
+Produto 830,184.34,Descrição do produto de exemplo.,5UL7D,Vestuário
+Produto 831,39.22,Descrição do produto de exemplo.,0OHER,Eletrônicos
+Produto 832,126.96,Descrição do produto de exemplo.,S1FJ2,Calçados
+Produto 833,286.85,Descrição do produto de exemplo.,6DN5Z,Calçados
+Produto 834,202.62,Descrição do produto de exemplo.,XUZGD,Calçados
+Produto 835,366.76,Descrição do produto de exemplo.,LK99L,Acessórios de Áudio
+Produto 836,93.04,Descrição do produto de exemplo.,NEZN7,Eletrônicos
+Produto 837,358.86,Descrição do produto de exemplo.,YCC67,Livros
+Produto 838,44.75,Descrição do produto de exemplo.,5LIX0,Acessórios de Áudio
+Produto 839,183.99,Descrição do produto de exemplo.,DUET9,Eletrônicos
+Produto 840,293.19,Descrição do produto de exemplo.,G4KG0,Acessórios de Áudio
+Produto 841,409.08,Descrição do produto de exemplo.,NYPPI,Vestuário
+Produto 842,194.10,Descrição do produto de exemplo.,OP2ID,Vestuário
+Produto 843,241.60,Descrição do produto de exemplo.,1D4P6,Livros
+Produto 844,305.29,Descrição do produto de exemplo.,LXYTS,Eletrônicos
+Produto 845,317.36,Descrição do produto de exemplo.,7GELE,Eletrônicos
+Produto 846,238.23,Descrição do produto de exemplo.,YGN3H,Livros
+Produto 847,180.75,Descrição do produto de exemplo.,6QT6I,Acessórios de Áudio
+Produto 848,237.78,Descrição do produto de exemplo.,IEYKY,Calçados
+Produto 849,455.40,Descrição do produto de exemplo.,J7G87,Vestuário
+Produto 850,476.87,Descrição do produto de exemplo.,3ENUK,Calçados
+Produto 851,165.59,Descrição do produto de exemplo.,EFYLB,Livros
+Produto 852,10.34,Descrição do produto de exemplo.,1YJSI,Calçados
+Produto 853,432.41,Descrição do produto de exemplo.,CR7HO,Vestuário
+Produto 854,11.64,Descrição do produto de exemplo.,9FROA,Calçados
+Produto 855,442.15,Descrição do produto de exemplo.,KO81J,Acessórios de Áudio
+Produto 856,170.82,Descrição do produto de exemplo.,C5ORF,Eletrônicos
+Produto 857,123.16,Descrição do produto de exemplo.,FP19T,Livros
+Produto 858,275.65,Descrição do produto de exemplo.,QDDUQ,Acessórios de Áudio
+Produto 859,82.15,Descrição do produto de exemplo.,Q40FK,Eletrônicos
+Produto 860,401.57,Descrição do produto de exemplo.,QT60L,Eletrônicos
+Produto 861,458.14,Descrição do produto de exemplo.,20R3J,Eletrônicos
+Produto 862,27.36,Descrição do produto de exemplo.,F0KK4,Acessórios de Áudio
+Produto 863,223.44,Descrição do produto de exemplo.,4QKJP,Calçados
+Produto 864,203.28,Descrição do produto de exemplo.,BI74Y,Eletrônicos
+Produto 865,401.99,Descrição do produto de exemplo.,GFOK7,Eletrônicos
+Produto 866,339.42,Descrição do produto de exemplo.,Z9PKN,Vestuário
+Produto 867,377.75,Descrição do produto de exemplo.,HF1TW,Acessórios de Áudio
+Produto 868,323.08,Descrição do produto de exemplo.,4X7KX,Livros
+Produto 869,190.83,Descrição do produto de exemplo.,RPDB6,Acessórios de Áudio
+Produto 870,351.58,Descrição do produto de exemplo.,DA03M,Acessórios de Áudio
+Produto 871,108.88,Descrição do produto de exemplo.,X58WI,Acessórios de Áudio
+Produto 872,267.86,Descrição do produto de exemplo.,JZSZG,Acessórios de Áudio
+Produto 873,421.10,Descrição do produto de exemplo.,RN2ZO,Vestuário
+Produto 874,371.59,Descrição do produto de exemplo.,LR10N,Livros
+Produto 875,424.80,Descrição do produto de exemplo.,TB7UX,Livros
+Produto 876,401.43,Descrição do produto de exemplo.,SVZQQ,Acessórios de Áudio
+Produto 877,128.84,Descrição do produto de exemplo.,2GEDO,Eletrônicos
+Produto 878,468.12,Descrição do produto de exemplo.,63Y6S,Eletrônicos
+Produto 879,494.53,Descrição do produto de exemplo.,TY03O,Livros
+Produto 880,208.71,Descrição do produto de exemplo.,B79XR,Eletrônicos
+Produto 881,242.00,Descrição do produto de exemplo.,EXHXM,Eletrônicos
+Produto 882,327.79,Descrição do produto de exemplo.,SXSQF,Calçados
+Produto 883,471.83,Descrição do produto de exemplo.,6861R,Eletrônicos
+Produto 884,364.78,Descrição do produto de exemplo.,UXNC7,Eletrônicos
+Produto 885,96.13,Descrição do produto de exemplo.,V0I2Y,Acessórios de Áudio
+Produto 886,297.10,Descrição do produto de exemplo.,8G1W4,Acessórios de Áudio
+Produto 887,347.60,Descrição do produto de exemplo.,RV9CI,Acessórios de Áudio
+Produto 888,58.12,Descrição do produto de exemplo.,TVVY2,Vestuário
+Produto 889,76.92,Descrição do produto de exemplo.,8W7T4,Vestuário
+Produto 890,90.52,Descrição do produto de exemplo.,WRC7Q,Vestuário
+Produto 891,50.14,Descrição do produto de exemplo.,XIRMZ,Livros
+Produto 892,146.72,Descrição do produto de exemplo.,JXE8E,Acessórios de Áudio
+Produto 893,362.49,Descrição do produto de exemplo.,3J2NH,Acessórios de Áudio
+Produto 894,31.76,Descrição do produto de exemplo.,YKOFD,Vestuário
+Produto 895,264.35,Descrição do produto de exemplo.,4YK3Y,Vestuário
+Produto 896,404.42,Descrição do produto de exemplo.,R8USF,Eletrônicos
+Produto 897,51.83,Descrição do produto de exemplo.,KYK34,Livros
+Produto 898,399.41,Descrição do produto de exemplo.,GTYHR,Vestuário
+Produto 899,415.84,Descrição do produto de exemplo.,R08O5,Calçados
+Produto 900,156.46,Descrição do produto de exemplo.,Z2473,Calçados
+Produto 901,206.10,Descrição do produto de exemplo.,U9CLL,Vestuário
+Produto 902,359.41,Descrição do produto de exemplo.,VF7I3,Acessórios de Áudio
+Produto 903,96.94,Descrição do produto de exemplo.,QQJ0Y,Livros
+Produto 904,196.39,Descrição do produto de exemplo.,LXWI2,Livros
+Produto 905,339.72,Descrição do produto de exemplo.,C762K,Calçados
+Produto 906,240.58,Descrição do produto de exemplo.,C2PW1,Eletrônicos
+Produto 907,442.35,Descrição do produto de exemplo.,BVAAO,Eletrônicos
+Produto 908,374.66,Descrição do produto de exemplo.,2A80B,Livros
+Produto 909,379.72,Descrição do produto de exemplo.,PNDP5,Calçados
+Produto 910,351.76,Descrição do produto de exemplo.,NK2GK,Livros
+Produto 911,404.62,Descrição do produto de exemplo.,0JY6L,Vestuário
+Produto 912,210.25,Descrição do produto de exemplo.,A6B7O,Eletrônicos
+Produto 913,297.27,Descrição do produto de exemplo.,7NRN6,Livros
+Produto 914,246.50,Descrição do produto de exemplo.,XI51E,Vestuário
+Produto 915,120.18,Descrição do produto de exemplo.,83VK5,Vestuário
+Produto 916,59.28,Descrição do produto de exemplo.,XUBET,Livros
+Produto 917,196.45,Descrição do produto de exemplo.,XVB29,Eletrônicos
+Produto 918,270.03,Descrição do produto de exemplo.,IFGUA,Eletrônicos
+Produto 919,434.00,Descrição do produto de exemplo.,WXSM7,Acessórios de Áudio
+Produto 920,352.50,Descrição do produto de exemplo.,13E0L,Livros
+Produto 921,207.72,Descrição do produto de exemplo.,QIXD8,Vestuário
+Produto 922,495.48,Descrição do produto de exemplo.,T4DQC,Acessórios de Áudio
+Produto 923,336.05,Descrição do produto de exemplo.,GJGQF,Acessórios de Áudio
+Produto 924,207.56,Descrição do produto de exemplo.,0Q7AJ,Livros
+Produto 925,401.37,Descrição do produto de exemplo.,8P6OM,Vestuário
+Produto 926,305.54,Descrição do produto de exemplo.,WR38P,Eletrônicos
+Produto 927,74.67,Descrição do produto de exemplo.,TTC58,Eletrônicos
+Produto 928,243.17,Descrição do produto de exemplo.,8IWKZ,Livros
+Produto 929,335.27,Descrição do produto de exemplo.,9K5AU,Eletrônicos
+Produto 930,465.17,Descrição do produto de exemplo.,YB0XC,Calçados
+Produto 931,132.85,Descrição do produto de exemplo.,5DWPP,Eletrônicos
+Produto 932,212.36,Descrição do produto de exemplo.,SWJ51,Livros
+Produto 933,357.96,Descrição do produto de exemplo.,6VYXG,Calçados
+Produto 934,348.65,Descrição do produto de exemplo.,Q25XF,Livros
+Produto 935,321.29,Descrição do produto de exemplo.,BRABW,Calçados
+Produto 936,29.17,Descrição do produto de exemplo.,HIUKF,Calçados
+Produto 937,328.09,Descrição do produto de exemplo.,IOTFZ,Acessórios de Áudio
+Produto 938,475.85,Descrição do produto de exemplo.,3CO3C,Eletrônicos
+Produto 939,319.72,Descrição do produto de exemplo.,JQZKJ,Vestuário
+Produto 940,482.95,Descrição do produto de exemplo.,ZAEJG,Calçados
+Produto 941,375.70,Descrição do produto de exemplo.,JPV1N,Eletrônicos
+Produto 942,277.71,Descrição do produto de exemplo.,XNK8C,Eletrônicos
+Produto 943,68.54,Descrição do produto de exemplo.,81LB0,Livros
+Produto 944,67.30,Descrição do produto de exemplo.,45K5Q,Livros
+Produto 945,484.70,Descrição do produto de exemplo.,DDS49,Livros
+Produto 946,444.26,Descrição do produto de exemplo.,BLIZE,Livros
+Produto 947,107.67,Descrição do produto de exemplo.,6NHJ6,Acessórios de Áudio
+Produto 948,454.21,Descrição do produto de exemplo.,MRZ9S,Calçados
+Produto 949,338.62,Descrição do produto de exemplo.,DCKFV,Eletrônicos
+Produto 950,368.94,Descrição do produto de exemplo.,R0MCZ,Eletrônicos
+Produto 951,126.72,Descrição do produto de exemplo.,3KSXO,Vestuário
+Produto 952,77.22,Descrição do produto de exemplo.,4CCQ6,Livros
+Produto 953,184.55,Descrição do produto de exemplo.,C7D57,Eletrônicos
+Produto 954,314.28,Descrição do produto de exemplo.,JPPIZ,Vestuário
+Produto 955,415.47,Descrição do produto de exemplo.,NYFJT,Eletrônicos
+Produto 956,35.13,Descrição do produto de exemplo.,MQ1PW,Acessórios de Áudio
+Produto 957,456.65,Descrição do produto de exemplo.,6NHWO,Vestuário
+Produto 958,80.42,Descrição do produto de exemplo.,PVKC1,Acessórios de Áudio
+Produto 959,353.10,Descrição do produto de exemplo.,7QC4Y,Acessórios de Áudio
+Produto 960,93.72,Descrição do produto de exemplo.,P7DWG,Calçados
+Produto 961,360.48,Descrição do produto de exemplo.,PHUOI,Acessórios de Áudio
+Produto 962,362.39,Descrição do produto de exemplo.,X9VYK,Livros
+Produto 963,188.79,Descrição do produto de exemplo.,EKXOO,Vestuário
+Produto 964,490.47,Descrição do produto de exemplo.,Z8MAB,Eletrônicos
+Produto 965,137.54,Descrição do produto de exemplo.,H7XQ0,Vestuário
+Produto 966,188.15,Descrição do produto de exemplo.,NO6S3,Eletrônicos
+Produto 967,480.34,Descrição do produto de exemplo.,T3UBA,Acessórios de Áudio
+Produto 968,465.95,Descrição do produto de exemplo.,NEHNW,Livros
+Produto 969,182.98,Descrição do produto de exemplo.,GWEOS,Vestuário
+Produto 970,447.41,Descrição do produto de exemplo.,4Z30S,Calçados
+Produto 971,163.62,Descrição do produto de exemplo.,F44CG,Eletrônicos
+Produto 972,165.62,Descrição do produto de exemplo.,BBPTH,Acessórios de Áudio
+Produto 973,404.54,Descrição do produto de exemplo.,4632L,Eletrônicos
+Produto 974,277.93,Descrição do produto de exemplo.,2P3C3,Vestuário
+Produto 975,197.13,Descrição do produto de exemplo.,FRHG8,Calçados
+Produto 976,357.58,Descrição do produto de exemplo.,G8YFX,Acessórios de Áudio
+Produto 977,285.56,Descrição do produto de exemplo.,I8ZWC,Vestuário
+Produto 978,362.62,Descrição do produto de exemplo.,E79U0,Eletrônicos
+Produto 979,447.05,Descrição do produto de exemplo.,4QQPH,Calçados
+Produto 980,12.85,Descrição do produto de exemplo.,YFE2K,Acessórios de Áudio
+Produto 981,50.46,Descrição do produto de exemplo.,RS37H,Livros
+Produto 982,287.57,Descrição do produto de exemplo.,48Z70,Vestuário
+Produto 983,37.47,Descrição do produto de exemplo.,AMP5M,Calçados
+Produto 984,356.90,Descrição do produto de exemplo.,YSZ52,Acessórios de Áudio
+Produto 985,449.47,Descrição do produto de exemplo.,1LDW5,Acessórios de Áudio
+Produto 986,155.12,Descrição do produto de exemplo.,O4158,Livros
+Produto 987,379.14,Descrição do produto de exemplo.,6GIGI,Eletrônicos
+Produto 988,378.67,Descrição do produto de exemplo.,QVSUG,Eletrônicos
+Produto 989,457.38,Descrição do produto de exemplo.,1COVD,Calçados
+Produto 990,378.86,Descrição do produto de exemplo.,ECUCT,Livros
+Produto 991,86.88,Descrição do produto de exemplo.,P1VGH,Vestuário
+Produto 992,382.81,Descrição do produto de exemplo.,ZZ3UG,Acessórios de Áudio
+Produto 993,482.04,Descrição do produto de exemplo.,3CMWJ,Calçados
+Produto 994,13.26,Descrição do produto de exemplo.,HCDVC,Acessórios de Áudio
+Produto 995,218.54,Descrição do produto de exemplo.,LBJG1,Acessórios de Áudio
+Produto 996,10.34,Descrição do produto de exemplo.,2HQ9M,Calçados
+Produto 997,40.72,Descrição do produto de exemplo.,W540B,Calçados
+Produto 998,495.25,Descrição do produto de exemplo.,LKJ58,Eletrônicos
+Produto 999,124.76,Descrição do produto de exemplo.,UY1EM,Calçados
+Produto 1000,168.73,Descrição do produto de exemplo.,41LRF,Acessórios de Áudio
